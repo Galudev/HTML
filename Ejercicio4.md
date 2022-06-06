@@ -1,0 +1,1 @@
+Se ha minificado el Ejercicio 2 y ha pasado de ocupar 2,84 KB a 2,57 KB
