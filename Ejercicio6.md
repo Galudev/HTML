@@ -1,0 +1,1 @@
+No es recomendable meter un elemento en bloque dentro de un elemento en línea porque se está introduciendo algo que ocupa toda la línea en algo que puede ocupar menos de una línea, y aunque en principio parece no haber problema ya que el elemento en línea se ajusta al tamaño de su contenido, no es una buena práctica.
